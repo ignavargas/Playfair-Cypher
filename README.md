@@ -1,2 +1,2 @@
 # Playfair-Cypher
-PC first version of a playfair cypher 
+First PC version of a playfair cypher 
